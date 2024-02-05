@@ -17,6 +17,5 @@ public class SwaggerConfig {
 						.title("API para controle de produtos")
 						.description("Projeto desenvolvido com Spring Boot e Spring Data JPA")
 						.version("v1"));
-	}
-	
+	}	
 }
